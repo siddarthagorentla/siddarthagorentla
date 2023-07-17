@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on remote intern in the field of web development
 - 📫 How to reach me : mail:-siddarthagorentla@gmail.com
+- linkedin :- siddartha gorentla
 
 <!---
 siddarthagorentla/siddarthagorentla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
