@@ -4,7 +4,6 @@
 </p>
 
 ---
-
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Siddartha Gorentla</h1>
 <h3 align="center">An AI/ML and Software enthusiast and passionate student.</h3>
@@ -25,8 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddartha-gorentla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddartha-gorentla" height="30" width="40" /></a>
-<!-- Add other social media links here. For example: -->
-<!-- <a href="https://twitter.com/your_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_handle" height="30" width="40" /></a> -->
+<a href="https://siddartha-gorentla.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="siddartha-gorentla.vercel.app" height="30" width="40" /></a>
 </p>
 
 ---
@@ -71,10 +69,9 @@
 <!-- Recent Projects Section -->
 <h3 align="left">Recent Projects:</h3>
 
-- **[Rice-Trading-ECommerce Platform](https://entreprise-ecommerce-rice.vercel.app/)** 
-- **[ai-sales-call-chatbot](https://github.com/siddarthagorentla/ai-sales-call-chatbot-)** 
-- **[Bitcoin_Price_Predictor](https://github.com/siddarthagorentla/Bitcoin_Price_Predictor)**
-- **[Budget Tracking Credit Ledger](https://budget-tracking-credit-ledger.vercel.app/)**
+- **[Budget-tracking-credit-ledger](https://github.com/siddarthagorentla/Budget-tracking-credit-ledger)** - A brief description of your project.
+- **[ai-sales-call-chatbot](https://github.com/siddarthagorentla/ai-sales-call-chatbot-)** - A brief description of your project.
+- **[Bitcoin_Price_Predictor](https://github.com/siddarthagorentla/Bitcoin_Price_Predictor)** - A brief description of your project.
 
 ---
 
