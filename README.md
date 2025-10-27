@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarthagorentla&label=Profile%20views&color=0e75b6&style=flat" alt="siddarthagorentla" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **[Your current technology]**
+- 🔭 I’m currently BTech Student at VIT University
+- 🌱 I’m currently learning **Various Technologies and Applying them in real world problems**
 - 👯 I’m looking to collaborate on **AI/ML projects**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about **Python, AI, and Machine Learning**
-- 📫 How to reach me **[your-email@example.com]**
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with software and Machine Learning Projects and contribute my skills
+- 💬 Ask me about **Java, Python, Web Development and Machine Learning**
+- 📫 How to reach me **siddarthagorentla@gmail.com**
+- ⚡ Fun fact: Your brain is constantly eating itself.
 
 ---
 
