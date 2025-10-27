@@ -64,9 +64,10 @@
 <!-- Recent Projects Section -->
 <h3 align="left">Recent Projects:</h3>
 
-- **[Budget-tracking-credit-ledger](https://github.com/siddarthagorentla/Budget-tracking-credit-ledger)** - A brief description of your project.
-- **[ai-sales-call-chatbot](https://github.com/siddarthagorentla/ai-sales-call-chatbot-)** - A brief description of your project.
-- **[Bitcoin_Price_Predictor](https://github.com/siddarthagorentla/Bitcoin_Price_Predictor)** - A brief description of your project.
+- **[Rice-Trading-ECommerce Platform](https://entreprise-ecommerce-rice.vercel.app/)** 
+- **[ai-sales-call-chatbot](https://github.com/siddarthagorentla/ai-sales-call-chatbot-)** 
+- **[Bitcoin_Price_Predictor](https://github.com/siddarthagorentla/Bitcoin_Price_Predictor)**
+- **[Budget Tracking Credit Ledger](https://budget-tracking-credit-ledger.vercel.app/)**
 
 ---
 
