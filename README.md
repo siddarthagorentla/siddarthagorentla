@@ -1,3 +1,10 @@
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Gorentla+Siddartha;Software+Developer;AI/ML+Enthusiast;Building+Robust+%26+Scalable+Systems;Passionate+in+Web+Development" alt="Typing Animation" />
+</p>
+
+---
+
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Siddartha Gorentla</h1>
 <h3 align="center">An AI/ML and Software enthusiast and passionate student.</h3>
