@@ -59,7 +59,7 @@
 <h3 align="left">Certifications & Professional Development:</h3>
 
 - **IamNeo Java Full Stack Certification** | *Enterprise Development, System Architecture* (2024)
-  - Completed 40-hour program covering software development, algorithms, data structures, and distributed system architecture.
+  - Completed 72 days program covering software development, algorithms, data structures, and distributed system architecture.
 
 - **Deloitte Australia Data Analytics Job Simulation** | *Business Intelligence, Analytics* (Jun. 2025)
   - Built interactive dashboards with data visualization and analytics, processing 5,000+ records using efficient algorithms and data structures.
