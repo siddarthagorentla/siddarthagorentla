@@ -70,7 +70,7 @@
 <h3 align="left">Recent Projects:</h3>
 
 - **[Rice-Trading-ECommerce-Platform](https://entreprise-ecommerce-rice.vercel.app/)** 
-- **[ai-sales-call-chatbot](https://github.com/siddarthagorentla/ai-sales-call-chatbot-)** 
+- **[LinkedIn Data Tool](https://linkedin-data-fullstack.vercel.app/)** 
 - **[Bitcoin_Price_Predictor](https://github.com/siddarthagorentla/Bitcoin_Price_Predictor)**
 - **[Budget-tracking-credit-ledger](https://github.com/siddarthagorentla/Budget-tracking-credit-ledger)** 
 
